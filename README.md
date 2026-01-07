@@ -98,4 +98,7 @@ For Best Results:
 2.	Combine with Windows Disk Cleanup
 3.	Export logs before major system changes
 4.	Share with family/friends (spread the performance!)
+5.	
 "Performance you can feel, simplicity you'll appreciate."
+![Registry Optimizer Pro](https://github.com/user-attachments/assets/54c28651-f670-4b50-bc5d-67130c2befb7)
+

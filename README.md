@@ -1,5 +1,6 @@
-# Registry-Optimizer-Pro
-Registry optimization tool that safely cleans and tunes your registry. Features 9 optimization modules including network throttling disable, services optimization, search history cleanup, and performance tweaks. Easy-to-use GUI with real-time progress tracking. Improves system speed, stability, and privacy. Requires Windows 10/11 with admin rights.
+![Registry Optimizer Pro](https://github.com/user-attachments/assets/54c28651-f670-4b50-bc5d-67130c2befb7)
+# Registry-Optimizer-Pro ("Performance you can feel, simplicity you'll appreciate.")
+Registry optimization tool (EXE file download: https://igrf.co.in/en/software/) that safely cleans and tunes your registry. Features 9 optimization modules including network throttling disable, services optimization, search history cleanup, and performance tweaks. Easy-to-use GUI with real-time progress tracking. Improves system speed, stability, and privacy. Requires Windows 10/11 with admin rights.
 Version 1.0 | IGRF Pvt. Ltd.
 Professional Windows Performance Enhancement Tool
 "Performance you can feel, simplicity you'll appreciate."
@@ -100,5 +101,4 @@ For Best Results:
 4.	Share with family/friends (spread the performance!)
 5.	
 "Performance you can feel, simplicity you'll appreciate."
-![Registry Optimizer Pro](https://github.com/user-attachments/assets/54c28651-f670-4b50-bc5d-67130c2befb7)
 
